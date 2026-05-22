@@ -9,7 +9,7 @@
 | [prompt engineering](./prompt%20engineering)               | Prompt 工程核心技巧与 Chatbot 实践                                         | ✅ 已完成 |
 | [langchain_1](./langchain_1)                               | LangChain 框架基础（模板/记忆/链/评估/Agent）                                  | ✅ 已完成 |
 | [langchain_WithPersonalData](./langchain_WithPersonalData) | LangChain + 个人文档（加载/分块/向量/检索/对话）                                  | ✅ 已完成 |
-| [hello_agent](./hello_agent)                               | Agent 设计模式与自研框架（ReAct/Plan-and-Solve/Reflection/LangGraph/Memory） | ✅ 已完成 |
+| [hello_agent](./hello_agent)                               | Agent 设计模式与自研框架<br/>（ReAct/Plan-and-Solve/Reflection/LangGraph/Memory） | ✅ 已完成 |
 | [rag](./rag)                                               | 从零构建 RAG 系统                                                       | ✅ 已完成 |
 | [torch](./torch)                                           | PyTorch 深度学习基础到 Transformer / LLM                                 | ✅ 已完成 |
 | [diffusion](./diffusion)                                   | 扩散模型                                                              | ⬜ 待开始 |
