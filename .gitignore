@@ -12,3 +12,18 @@ weights/
 
 .env
 .env.*
+
+*.csv
+*.png
+*.parquet
+*.xlsx
+*.pkl
+*.graphml
+*.txt
+*.json
+*.drawio.*
+*.drawio
+
+.pt
+.model
+.vocab
