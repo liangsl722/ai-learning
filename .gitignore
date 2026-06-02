@@ -24,6 +24,8 @@ weights/
 *.drawio.*
 *.drawio
 
-.pt
-.model
-.vocab
+*.pt
+*.model
+*.vocab
+*.jpg
+events.*
