@@ -12,6 +12,7 @@
 | [hello_agent](./hello_agent)                               | Agent 设计模式与自研框架<br/>（ReAct/Plan-and-Solve/Reflection/LangGraph/Memory） | ✅ 已完成 |
 | [rag](./rag)                                               | 从零构建 RAG 系统                                                       | ✅ 已完成 |
 | [torch](./torch)                                           | PyTorch 深度学习基础到 Transformer / LLM                                 | ✅ 已完成 |
+| [reinforcement learning](./reinforcement learning)         | 强化学习基础知识                                                       | ✅ 已完成 |
 | [diffusion](./diffusion)                                   | 扩散模型                                                              | ⬜ 待开始 |
 | <!-- 新模块 -->                                               | <!-- 在此添加新的学习模块 -->                                               | ⬜ 待开始 |
 
